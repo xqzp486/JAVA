@@ -1,1 +1,2 @@
-
+# 介绍
+这是一个基于SpringMVC框架的REST风格的增删改查模板，来源于尚硅谷SpringMVC课程中的REST练习项目
