@@ -1,0 +1,8 @@
+这是一个没用使用SSM框架的javaweb项目，主要是练习servlet、jsp、tomcat等技术的一个练习性项目
+采用MVC三层架构
+
+根据请求参数action的值，通过反射的机制来分发请求，实现controller层
+购物车是存储在session中。
+订单功能只实现了订单的生成和提交。
+
+事务控制用ThreadLocal来实现，但尚未实现。所以本项目最大问题在于事务控制。
